@@ -4,4 +4,4 @@ verbose-octo-chainsaw: code.c
 .PHONY: clean
 
 clean:
-	rm verbose-octo-chainsaw
+	rm -f verbose-octo-chainsaw
